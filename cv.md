@@ -21,4 +21,4 @@ Not invent
 * The Rolling Scopes School
 ## Languages
 * Russian
-* English A1 - (A2 in process)
+* English A1 - (A2 in process...)
